@@ -12,10 +12,6 @@ This repository contains code for a machine translation app that translates Bang
 - Simple and easy-to-use interface.
 - Powered by pre-trained models for machine translation.
 
-## Demo
-
-[Insert link to demo here]
-
 ## How to Use
 
 1. Clone this repository to your local machine:
