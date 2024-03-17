@@ -1,0 +1,48 @@
+.ef3psqc12{
+    background-color: #a62aff; /* Dark blue background */
+    color: rgb(255, 255, 255); /* White text */
+    padding: 10px 15px; /* Larger padding for better spacing */
+    text-align: center; /* Center-align the text */
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px; /* Slightly larger font size */
+    border-radius: 8px; /* Rounded corners */
+    margin: 8px 4px; /* Adjusted margin for better spacing */
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+.ef3psqc12:hover {
+    background-color: #6805af; /* Darker blue on hover */
+    color: white; /* White text on hover */
+}
+
+
+
+.e1nzilvr5 p{
+    font-family: Cambria, Georgia, serif; 
+    font-size: 18px; 
+    font-weight: 700; 
+    line-height: 26.4px;
+    color: rgb(255, 255, 255);
+}
+
+.e1y5xkzn3{
+    font-family: Cambria, Georgia, serif; 
+    font-size: 18px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+
+
+
+.e1nzilvr1{
+   color: #9c7abc; 
+   font-family: Cambria, Georgia, serif;
+}
+
+.ea3mdgi5{
+    background-color: #f0ddf8; 
+}
