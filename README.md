@@ -6,6 +6,11 @@
 
 This repository contains code for a machine translation app that translates Banglish (a mixture of Bengali and English) text to Bangla (Bengali) using Streamlit.
 
+## Dataset Used
+
+The Banglish to Bangla Machine Translation App utilizes the [Vashantor dataset](https://data.mendeley.com/datasets/bj5jgk878b/2) for training and evaluation.
+
+
 ## Features
 
 - Translate Banglish text to Bangla.
